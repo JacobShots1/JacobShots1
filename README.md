@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @JacobShots1
+- 👀 I’m interested in HTML/ Java Script
+- 🌱 I’m currently learning Discord.js V13
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me, discord: Shots.#7439
